@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started
 Install the dependencies and run the project
 ```
@@ -17,3 +18,7 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+=======
+# vanlife-scrimba
+Following Advanced React Scrimba Course. Gaining web dev experience by building out website using mirageJS for backend and react for front.
+>>>>>>> 1d32441f8ea6d565d28416d14d7bd3331faa8855
